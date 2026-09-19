@@ -25,3 +25,4 @@ backend/app/models/__pycache__/
 *.pth
 *.log
 node_modules/
+*.bundle
