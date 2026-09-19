@@ -1,0 +1,16 @@
+{
+  "reminders": [
+    {"reminder_type": "medicine", "image_asset": "reminders/medicine.jpg", "description": "Medicine reminder visual", "suggested_voice_style": "calm and clear"},
+    {"reminder_type": "water", "image_asset": "reminders/water.jpg", "description": "Water reminder visual", "suggested_voice_style": "gentle and encouraging"},
+    {"reminder_type": "breakfast", "image_asset": "reminders/breakfast.jpg", "description": "Breakfast reminder visual", "suggested_voice_style": "warm and friendly"},
+    {"reminder_type": "lunch", "image_asset": "reminders/lunch.jpg", "description": "Lunch reminder visual", "suggested_voice_style": "warm and friendly"},
+    {"reminder_type": "appointment", "image_asset": "reminders/appointment.jpg", "description": "Appointment reminder visual", "suggested_voice_style": "calm and clear"},
+    {"reminder_type": "walk", "image_asset": "reminders/walk.jpg", "description": "Walk reminder visual", "suggested_voice_style": "bright and encouraging"},
+    {"reminder_type": "family_call", "image_asset": "reminders/family_call.jpg", "description": "Family call reminder visual", "suggested_voice_style": "warm and affectionate"},
+    {"reminder_type": "bedtime", "image_asset": "reminders/bedtime.jpg", "description": "Bedtime reminder visual", "suggested_voice_style": "soft and soothing"},
+    {"reminder_type": "morning", "image_asset": "reminders/morning.jpg", "description": "Morning reminder visual", "suggested_voice_style": "bright and gentle"},
+    {"reminder_type": "family_meal", "image_asset": "reminders/family_meal.jpg", "description": "Family meal reminder visual", "suggested_voice_style": "warm and inviting"},
+    {"reminder_type": "gardening", "image_asset": "reminders/gardening.jpg", "description": "Gardening reminder visual", "suggested_voice_style": "calm and encouraging"},
+    {"reminder_type": "get_ready", "image_asset": "reminders/get_ready.jpg", "description": "Getting ready reminder visual", "suggested_voice_style": "clear and reassuring"}
+  ]
+}

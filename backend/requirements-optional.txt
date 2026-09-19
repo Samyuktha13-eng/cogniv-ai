@@ -1,0 +1,6 @@
+# Enable uploaded patient asset/session mirroring when COGNIV_USE_FIREBASE=1.
+firebase-admin>=7.0
+# Extract text from uploaded PDF story documents during story build/indexing.
+pypdf>=5.0
+# MongoDB Atlas metadata plus GridFS file storage.
+pymongo>=4.10

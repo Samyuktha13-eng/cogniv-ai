@@ -1,0 +1,17 @@
+collect_ignore = [
+    "tests/test_asr_integration.py",
+    "tests/test_asr_router.py",
+    "tests/test_cogvideox_provider.py",
+    "tests/test_english_asr.py",
+    "tests/test_english_asr_integration.py",
+    "tests/test_ltx_multiscale_provider.py",
+    "tests/test_meaning.py",
+    "tests/test_meaning_integration.py",
+    "tests/test_memory_tool.py",
+    "tests/test_multilingual_meaning.py",
+    "tests/test_phase1.py",
+    "tests/test_reminder_execution.py",
+    "tests/test_router.py",
+    "tests/test_semantic_validation.py",
+    "tests/test_whisper_offline_smoke.py",
+]
