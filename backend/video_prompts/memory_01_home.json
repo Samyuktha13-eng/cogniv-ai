@@ -1,0 +1,19 @@
+{
+  "scene_id": "memory_01_home",
+  "sequence_number": 1,
+  "title": "Lakshmi at Home / Beginning",
+  "period": "past",
+  "duration_seconds": 8,
+  "characters": [
+    "people/patient_lakshmi"
+  ],
+  "environment": "home/living_room",
+  "reference_images": [
+    "people/patient_lakshmi",
+    "home/living_room",
+    "home/house"
+  ],
+  "objects": [],
+  "story": "Lakshmi sits peacefully in her familiar family home, looking around and beginning to remember her daughter.",
+  "video_prompt": "Create a warm cinematic memory scene of Lakshmi, an elderly Indian woman, sitting peacefully inside her familiar family home.\n\nUse the provided Lakshmi reference image to preserve her facial appearance, grey hair, saree, bindi, jewelry, age and overall identity.\n\nUse the provided living-room and house reference images to preserve the actual architecture, furniture, colors, layout and atmosphere of Lakshmi's home.\n\nLakshmi sits quietly and looks around her familiar home. She gently looks toward a familiar family photograph and begins remembering her daughter.\n\nHer expression slowly changes from thoughtful to warm and emotional.\n\nNatural subtle movement: blinking, breathing, gentle head movement and natural hand movement.\n\nThe scene should feel like a gentle autobiographical memory, not a dramatic movie scene.\n\nWarm nostalgic atmosphere, realistic Indian home, natural lighting, slow camera movement.\n\nNo text, no captions, no logos, no watermark."
+}

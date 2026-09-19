@@ -1,0 +1,21 @@
+{
+  "scene_id": "present_02_anu_enters",
+  "sequence_number": 10,
+  "title": "Anu Enters the Home",
+  "period": "present",
+  "duration_seconds": 12,
+  "characters": [
+    "people/anu",
+    "people/patient_lakshmi"
+  ],
+  "environment": "home/house",
+  "reference_images": [
+    "people/anu",
+    "people/patient_lakshmi",
+    "home/house",
+    "home/living_room"
+  ],
+  "objects": [],
+  "story": "Adult Anu returns home after many years and enters to see her mother Lakshmi. This is a critical present-day reunion moment.",
+  "video_prompt": "Create a realistic present-day emotional reunion scene.\n\nUse the provided present-day reference image of adult Anu as the primary identity reference.\n\nUse the provided present-day reference image of Lakshmi as the primary identity reference.\n\nUse the provided house and living-room reference images to preserve Lakshmi's actual familiar home.\n\nAdult Anu has returned home after many years to see her mother Lakshmi.\n\nShow Anu naturally entering the familiar house and walking toward Lakshmi.\n\nAnu must remain recognizable as the adult woman from the provided reference image.\n\nLakshmi must remain recognizable as the elderly woman from her provided reference image.\n\nShow realistic walking movement: natural alternating leg movement, natural arm movement, body movement and facial expressions.\n\nLakshmi notices Anu and looks toward her.\n\nAnu approaches slowly with an emotional but gentle smile.\n\nThe home environment should remain consistent with the provided reference images.\n\nDo not invent a different house.\n\nNatural cinematic camera movement, realistic lighting and emotionally warm atmosphere.\n\nNo text, no captions, no logos, no watermark."
+}

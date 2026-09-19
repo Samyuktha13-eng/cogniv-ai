@@ -1,0 +1,20 @@
+{
+  "scene_id": "memory_04_temple",
+  "sequence_number": 4,
+  "title": "Temple Memory",
+  "period": "past",
+  "duration_seconds": 10,
+  "characters": [
+    "people/anu",
+    "people/patient_lakshmi"
+  ],
+  "environment": "places/family_temple",
+  "reference_images": [
+    "people/anu",
+    "people/patient_lakshmi",
+    "places/family_temple"
+  ],
+  "objects": [],
+  "story": "Lakshmi visits the family temple with her daughter Anu before Anu's marriage - a cherished family memory.",
+  "video_prompt": "Create a peaceful nostalgic memory reconstruction of Lakshmi visiting the family's familiar temple with her daughter Anu before Anu's marriage.\n\nUse the provided Lakshmi and Anu reference images to preserve their recognizable identities.\n\nBecause this is a memory from the past, Anu should appear younger while still remaining recognizable as the same daughter.\n\nUse the provided family temple reference image as the primary environment reference.\n\nLakshmi and young adult Anu walk slowly together toward the familiar temple.\n\nThey walk naturally side by side, with realistic leg movement, arm movement and gentle body motion.\n\nAnu looks at Lakshmi and smiles affectionately.\n\nLakshmi looks at Anu with a warm motherly expression.\n\nThe temple environment should closely resemble the provided reference image.\n\nPeaceful, respectful atmosphere, warm natural lighting and nostalgic visual tone.\n\nDo not add unrelated people or change the temple architecture significantly.\n\nNo text, no captions, no logos, no watermark."
+}

@@ -1,0 +1,123 @@
+{
+  "patient_id": "patient_001",
+  "patient_name": "Lakshmi",
+
+  "people": [
+    {
+      "id": "person_anu",
+      "name": "Anu",
+      "relationship": "daughter",
+      "image": "people/daughter_anu.png"
+    },
+    {
+      "id": "person_rahul",
+      "name": "Rahul",
+      "relationship": "son",
+      "image": "people/son_rahul.png"
+    },
+    {
+      "id": "person_lakshmi",
+      "name": "Lakshmi",
+      "relationship": "self",
+      "image": "people/patient_lakshmi.png"
+    }
+  ],
+
+  "places": [
+    {
+      "id": "place_temple",
+      "name": "Family Temple",
+      "image": "places/family_temple.jpg"
+    },
+    {
+      "id": "place_garden",
+      "name": "Family Garden",
+      "image": "places/family_garden.jpg"
+    }
+  ],
+
+  "home": [
+    {
+      "id": "home_kitchen",
+      "name": "Family Kitchen",
+      "image": "home/family_kitchen.jpg"
+    },
+    {
+      "id": "home_living_room",
+      "name": "Living Room",
+      "image": "home/living_room.jpg"
+    },
+    {
+      "id": "home_house",
+      "name": "Family House",
+      "image": "home/family_house_front.png"
+    }
+  ],
+
+  "food": [
+    {
+      "id": "food_chapathi",
+      "name": "Chapathi",
+      "image": "food/chapathi.jpg"
+    },
+    {
+      "id": "food_rice",
+      "name": "Rice",
+      "image": "food/rice.jpg"
+    },
+    {
+      "id": "food_banana",
+      "name": "Banana",
+      "image": "food/banana.jpg"
+    }
+  ],
+
+  "objects": [
+    {
+      "id": "object_radio",
+      "name": "Old Radio",
+      "image": "objects/old_radio.jpg"
+    },
+    {
+      "id": "object_spectacles",
+      "name": "Spectacles",
+      "image": "objects/spectacles.jpg"
+    }
+  ],
+
+  "memories": [
+    {
+      "id": "memory_anu_cooking",
+      "title": "Cooking with Anu",
+      "people": ["person_anu"],
+      "places": [],
+      "home": ["home_kitchen"],
+      "food": ["food_chapathi"],
+      "objects": [],
+      "description": "Anu used to cook chapathi with Lakshmi in the family kitchen.",
+      "image": "memories/anu_cooking_with_lakshmi.jpg"
+    },
+    {
+      "id": "memory_temple_visit",
+      "title": "Temple Visit with Anu",
+      "people": ["person_anu"],
+      "places": ["place_temple"],
+      "home": [],
+      "food": [],
+      "objects": [],
+      "description": "Anu and Lakshmi visited the family temple together.",
+      "image": "memories/anu_lakshmi_temple.jpg"
+    },
+    {
+      "id": "memory_family_meal",
+      "title": "Family Meal",
+      "people": ["person_anu", "person_rahul"],
+      "places": [],
+      "home": ["home_kitchen"],
+      "food": ["food_chapathi", "food_rice"],
+      "objects": [],
+      "description": "Family gathering with Anu and Rahul for a meal.",
+      "image": "memories/family_meal.jpg"
+    }
+  ]
+}

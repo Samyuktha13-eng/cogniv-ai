@@ -1,0 +1,21 @@
+{
+  "scene_id": "memory_05_trip",
+  "sequence_number": 5,
+  "title": "Family Trip",
+  "period": "past",
+  "duration_seconds": 10,
+  "characters": [
+    "people/anu",
+    "people/rahul",
+    "people/patient_lakshmi"
+  ],
+  "environment": "places/family_trip",
+  "reference_images": [
+    "people/anu",
+    "people/rahul",
+    "people/patient_lakshmi"
+  ],
+  "objects": [],
+  "story": "Lakshmi shares a happy family moment with Anu and Rahul during a cherished family trip.",
+  "video_prompt": "Create a warm nostalgic family-memory reconstruction showing Lakshmi spending happy family time with Anu and Rahul during a family trip.\n\nUse the provided reference images of Lakshmi, Anu and Rahul to preserve their recognizable identities.\n\nThis is a memory from the past, so Anu and Rahul may appear younger than their present-day reference images while remaining recognizable as the same family members.\n\nShow the family walking together, looking at the surroundings, smiling and enjoying their time together.\n\nLakshmi should appear relaxed and happy.\n\nAnu should interact naturally with Lakshmi.\n\nRahul should remain part of the family scene and interact naturally with them.\n\nUse natural walking, facial expressions, gestures and body movement.\n\nThe scene should feel like a cherished family memory rather than a staged photoshoot.\n\nWarm nostalgic lighting, peaceful atmosphere and cinematic but realistic movement.\n\nNo text, no captions, no logos, no watermark."
+}

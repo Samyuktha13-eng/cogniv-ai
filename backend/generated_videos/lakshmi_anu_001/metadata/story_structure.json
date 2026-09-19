@@ -1,0 +1,430 @@
+{
+  "story_id": "lakshmi_anu_story_001",
+  "title": "A Visit From Anu",
+  "description": "11-scene narrative memory reconstruction",
+  "total_scenes": 11,
+  "periods": {
+    "past": [
+      "memory_01_home",
+      "memory_02_anu",
+      "memory_03_chapathi",
+      "memory_04_temple",
+      "memory_05_trip",
+      "memory_06_family_meal",
+      "memory_07_garden",
+      "memory_08_radio"
+    ],
+    "transition": [
+      "present_01_transition"
+    ],
+    "present": [
+      "present_02_anu_enters",
+      "present_03_reunion_hug"
+    ]
+  },
+  "scenes": {
+    "memory_01_home": {
+      "sequence": 1,
+      "title": "Lakshmi at Home / Beginning",
+      "period": "past",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "thoughtful, peaceful"
+        }
+      ],
+      "environment": {
+        "name": "Living Room",
+        "asset_path": "Patient_001_Lakshmi\\home\\living_room"
+      },
+      "objects": [
+        {
+          "name": "Family Photo",
+          "asset_path": "Patient_001_Lakshmi\\objects\\family_photo"
+        }
+      ],
+      "story_context": "Lakshmi sits peacefully inside her familiar family home, remembering her daughter.",
+      "prompt_length": 957
+    },
+    "memory_02_anu": {
+      "sequence": 2,
+      "title": "Lakshmi Remembers Anu",
+      "period": "past",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "nostalgic, recognizing"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "appearing younger in this past memory",
+          "emotional_state": "warm, smiling"
+        }
+      ],
+      "environment": {
+        "name": "Living Room",
+        "asset_path": "Patient_001_Lakshmi\\home\\living_room"
+      },
+      "objects": [
+        {
+          "name": "Family Photo",
+          "asset_path": "Patient_001_Lakshmi\\objects\\family_photo"
+        }
+      ],
+      "story_context": "Lakshmi remembers her daughter Anu appearing in her home from past memories.",
+      "prompt_length": 953
+    },
+    "memory_03_chapathi": {
+      "sequence": 3,
+      "title": "Anu and Lakshmi Making Chapathi",
+      "period": "past",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "content, engaged"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "appearing younger in this past memory",
+          "emotional_state": "loving, focused"
+        }
+      ],
+      "environment": {
+        "name": "Kitchen",
+        "asset_path": "Patient_001_Lakshmi\\home\\kitchen"
+      },
+      "objects": [
+        {
+          "name": "Chapathi",
+          "asset_path": "Patient_001_Lakshmi\\food\\chapathi"
+        }
+      ],
+      "story_context": "Shared family memory of cooking chapathi together in the kitchen.",
+      "prompt_length": 1084
+    },
+    "memory_04_temple": {
+      "sequence": 4,
+      "title": "Temple Memory",
+      "period": "past",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "peaceful, reverent"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "appearing younger, before marriage",
+          "emotional_state": "reverent, affectionate"
+        }
+      ],
+      "environment": {
+        "name": "Family Temple",
+        "asset_path": "Patient_001_Lakshmi\\places\\family_temple"
+      },
+      "objects": [],
+      "story_context": "Lakshmi and Anu visit the family temple together before Anu's marriage.",
+      "prompt_length": 1016
+    },
+    "memory_05_trip": {
+      "sequence": 5,
+      "title": "Family Trip",
+      "period": "past",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "relaxed, happy"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "appearing younger",
+          "emotional_state": "joyful, engaged"
+        },
+        {
+          "name": "Rahul",
+          "character_id": "rahul",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\rahul"
+          ],
+          "age_note": "appearing younger",
+          "emotional_state": "happy"
+        }
+      ],
+      "environment": null,
+      "objects": [
+        {
+          "name": "Trip location",
+          "asset_path": "Patient_001_Lakshmi\\places\\trip_location"
+        }
+      ],
+      "story_context": "Family spending happy time together during a trip.",
+      "prompt_length": 967
+    },
+    "memory_06_family_meal": {
+      "sequence": 6,
+      "title": "Family Meal",
+      "period": "past",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "content, nurturing"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "appearing younger",
+          "emotional_state": "affectionate, present"
+        },
+        {
+          "name": "Rahul",
+          "character_id": "rahul",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\rahul"
+          ],
+          "age_note": "appearing younger",
+          "emotional_state": "happy"
+        }
+      ],
+      "environment": {
+        "name": "Dining Room",
+        "asset_path": "Patient_001_Lakshmi\\home\\dining_room"
+      },
+      "objects": [
+        {
+          "name": "Rice",
+          "asset_path": "Patient_001_Lakshmi\\food\\rice"
+        },
+        {
+          "name": "Banana",
+          "asset_path": "Patient_001_Lakshmi\\food\\banana"
+        }
+      ],
+      "story_context": "Family sharing a meal together at home.",
+      "prompt_length": 874
+    },
+    "memory_07_garden": {
+      "sequence": 7,
+      "title": "Family Garden",
+      "period": "past",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "peaceful, observant"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "appearing younger",
+          "emotional_state": "caring, engaged"
+        }
+      ],
+      "environment": {
+        "name": "Family Garden",
+        "asset_path": "Patient_001_Lakshmi\\places\\family_garden"
+      },
+      "objects": [],
+      "story_context": "Lakshmi and Anu spending time together in their familiar garden.",
+      "prompt_length": 909
+    },
+    "memory_08_radio": {
+      "sequence": 8,
+      "title": "Old Radio Memory",
+      "period": "past",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "nostalgic, content"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "appearing younger",
+          "emotional_state": "playful, attentive"
+        }
+      ],
+      "environment": {
+        "name": "Living Room",
+        "asset_path": "Patient_001_Lakshmi\\home\\living_room"
+      },
+      "objects": [
+        {
+          "name": "Old Radio",
+          "asset_path": "Patient_001_Lakshmi\\objects\\old_radio"
+        }
+      ],
+      "story_context": "Lakshmi and Anu listening to the old radio together.",
+      "prompt_length": 892
+    },
+    "present_01_transition": {
+      "sequence": 9,
+      "title": "Transition From Memory to Present",
+      "period": "transition",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "awakening, emotional"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "present-day adult",
+          "emotional_state": "hopeful, emotional"
+        }
+      ],
+      "environment": {
+        "name": "House",
+        "asset_path": "Patient_001_Lakshmi\\home\\house"
+      },
+      "objects": [],
+      "story_context": "Transition from past memories into the present day as Anu returns home.",
+      "prompt_length": 862
+    },
+    "present_02_anu_enters": {
+      "sequence": 10,
+      "title": "Anu Enters the Home",
+      "period": "present",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "surprised, recognizing"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "present-day adult",
+          "emotional_state": "emotional, gentle"
+        }
+      ],
+      "environment": {
+        "name": "House",
+        "asset_path": "Patient_001_Lakshmi\\home\\house"
+      },
+      "objects": [],
+      "story_context": "Adult Anu returns home and enters to see her mother Lakshmi.",
+      "prompt_length": 1147
+    },
+    "present_03_reunion_hug": {
+      "sequence": 11,
+      "title": "Final Mother-Daughter Hug",
+      "period": "present",
+      "duration_seconds": 8,
+      "characters": [
+        {
+          "name": "Lakshmi",
+          "character_id": "lakshmi",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\patient_lakshmi"
+          ],
+          "age_note": "",
+          "emotional_state": "loving, recognizing, emotional"
+        },
+        {
+          "name": "Anu",
+          "character_id": "anu",
+          "reference_images": [
+            "Patient_001_Lakshmi\\people\\anu"
+          ],
+          "age_note": "present-day adult",
+          "emotional_state": "affectionate, relieved, loving"
+        }
+      ],
+      "environment": {
+        "name": "Living Room",
+        "asset_path": "Patient_001_Lakshmi\\home\\living_room"
+      },
+      "objects": [],
+      "story_context": "Lakshmi and Anu embrace in a final emotional reunion.",
+      "prompt_length": 1272
+    }
+  }
+}

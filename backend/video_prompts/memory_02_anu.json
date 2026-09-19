@@ -1,0 +1,20 @@
+{
+  "scene_id": "memory_02_anu",
+  "sequence_number": 2,
+  "title": "Lakshmi Remembers Anu",
+  "period": "past",
+  "duration_seconds": 8,
+  "characters": [
+    "people/patient_lakshmi",
+    "people/anu"
+  ],
+  "environment": "home/living_room",
+  "reference_images": [
+    "people/patient_lakshmi",
+    "people/anu",
+    "home/living_room"
+  ],
+  "objects": [],
+  "story": "Lakshmi remembers her daughter Anu in a gentle memory reconstruction. She looks at a photograph and Anu appears in her memory.",
+  "video_prompt": "Create a gentle autobiographical memory reconstruction in which Lakshmi remembers her daughter Anu.\n\nUse the provided reference images of Lakshmi and Anu as the primary identity references.\n\nPreserve the recognizable facial characteristics and overall appearance of both people, while allowing Anu to appear somewhat younger because this is a memory from the past.\n\nLakshmi sits in her familiar living room and looks at a photograph of Anu.\n\nThe memory gradually transitions to Anu appearing in Lakshmi's remembered home.\n\nAnu smiles warmly at Lakshmi.\n\nLakshmi looks at Anu with a familiar motherly expression, as if she is trying to recognize and remember her daughter.\n\nUse subtle natural movement: blinking, breathing, facial expressions and gentle body movement.\n\nThe scene should communicate recognition and emotional familiarity rather than sadness.\n\nWarm nostalgic lighting and peaceful atmosphere.\n\nNo text, no captions, no logos, no watermark."
+}

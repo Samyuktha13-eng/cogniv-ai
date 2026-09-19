@@ -1,0 +1,23 @@
+{
+  "scene_id": "memory_03_chapathi",
+  "sequence_number": 3,
+  "title": "Anu and Lakshmi Making Chapathi",
+  "period": "past",
+  "duration_seconds": 10,
+  "characters": [
+    "people/anu",
+    "people/patient_lakshmi"
+  ],
+  "environment": "home/kitchen",
+  "reference_images": [
+    "people/anu",
+    "people/patient_lakshmi",
+    "home/kitchen",
+    "food/chapathi"
+  ],
+  "objects": [
+    "food/chapathi"
+  ],
+  "story": "A warm nostalgic memory of Lakshmi and Anu cooking chapathi together in their family kitchen.",
+  "video_prompt": "Create a warm nostalgic memory reconstruction of Lakshmi and her daughter Anu spending time together in their familiar family kitchen.\n\nUse the provided Anu and Lakshmi reference images to maintain recognizable identities.\n\nBecause this is a past memory, Anu may appear younger than her present-day reference while still remaining recognizably the same person.\n\nUse the provided kitchen reference image to preserve the actual kitchen environment, layout and visual characteristics.\n\nUse the provided chapathi reference image as a visual reference for the food.\n\nAnu lovingly prepares chapathi dough and cooks chapathi while Lakshmi stands beside her and helps.\n\nShow realistic hand movements while preparing the chapathi, gentle interaction between mother and daughter, natural facial expressions and warm smiles.\n\nShow the chapathi clearly enough that it can function as a visual memory cue.\n\nThe scene should feel like a genuine warm family memory reconstruction.\n\nNatural Indian home atmosphere, warm lighting, gentle camera movement.\n\nNo text, no captions, no logos, no watermark."
+}

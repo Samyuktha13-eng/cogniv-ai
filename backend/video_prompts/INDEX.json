@@ -1,0 +1,208 @@
+{
+  "story_id": "lakshmi_anu_001",
+  "title": "Lakshmi & Anu: Memory Therapy Narrative",
+  "description": "11-scene video narrative for dementia memory therapy. 8 past memories → 1 transition → 2 present-day reunion scenes.",
+  "patient": "Lakshmi (elderly Indian woman with dementia)",
+  "daughter": "Anu (returning home after years away)",
+  "purpose": "Person recognition therapy through video-based memory association",
+  "total_scenes": 11,
+  "total_duration_seconds": 108,
+  "periods": {
+    "past": {
+      "count": 8,
+      "scenes": [
+        "memory_01_home",
+        "memory_02_anu",
+        "memory_03_chapathi",
+        "memory_04_temple",
+        "memory_05_trip",
+        "memory_06_family_meal",
+        "memory_07_garden",
+        "memory_08_radio"
+      ],
+      "purpose": "Establish familiar memories and faces for recognition therapy"
+    },
+    "transition": {
+      "count": 1,
+      "scenes": [
+        "present_01_transition"
+      ],
+      "purpose": "Bridge from memories to present-day reality"
+    },
+    "present": {
+      "count": 2,
+      "scenes": [
+        "present_02_anu_enters",
+        "present_03_reunion_hug"
+      ],
+      "purpose": "Present-day reunion and person recognition in real time"
+    }
+  },
+  "scenes": [
+    {
+      "file": "memory_01_home.json",
+      "scene_id": "memory_01_home",
+      "sequence": 1,
+      "title": "Lakshmi at Home / Beginning",
+      "period": "past",
+      "duration": 8,
+      "characters": ["Lakshmi"],
+      "environment": "home/living_room",
+      "key_asset": "home/house",
+      "therapeutic_focus": "Establish familiar home environment"
+    },
+    {
+      "file": "memory_02_anu.json",
+      "scene_id": "memory_02_anu",
+      "sequence": 2,
+      "title": "Lakshmi Remembers Anu",
+      "period": "past",
+      "duration": 8,
+      "characters": ["Lakshmi", "Anu"],
+      "environment": "home/living_room",
+      "key_asset": "people/anu",
+      "therapeutic_focus": "Introduce Anu's face and daughter relationship"
+    },
+    {
+      "file": "memory_03_chapathi.json",
+      "scene_id": "memory_03_chapathi",
+      "sequence": 3,
+      "title": "Anu and Lakshmi Making Chapathi",
+      "period": "past",
+      "duration": 10,
+      "characters": ["Anu", "Lakshmi"],
+      "environment": "home/kitchen",
+      "key_asset": "food/chapathi",
+      "therapeutic_focus": "Shared activity memory and cultural reinforcement"
+    },
+    {
+      "file": "memory_04_temple.json",
+      "scene_id": "memory_04_temple",
+      "sequence": 4,
+      "title": "Temple Memory",
+      "period": "past",
+      "duration": 10,
+      "characters": ["Anu", "Lakshmi"],
+      "environment": "places/family_temple",
+      "key_asset": "places/family_temple",
+      "therapeutic_focus": "Spiritual memory and special moments with daughter"
+    },
+    {
+      "file": "memory_05_trip.json",
+      "scene_id": "memory_05_trip",
+      "sequence": 5,
+      "title": "Family Trip",
+      "period": "past",
+      "duration": 10,
+      "characters": ["Anu", "Rahul", "Lakshmi"],
+      "environment": "places/family_trip",
+      "key_asset": "family",
+      "therapeutic_focus": "Extended family memories and positive experiences"
+    },
+    {
+      "file": "memory_06_family_meal.json",
+      "scene_id": "memory_06_family_meal",
+      "sequence": 6,
+      "title": "Family Meal",
+      "period": "past",
+      "duration": 10,
+      "characters": ["Lakshmi", "Anu", "Rahul"],
+      "environment": "home/living_room",
+      "key_asset": "food/rice, food/banana",
+      "therapeutic_focus": "Shared meals and family togetherness"
+    },
+    {
+      "file": "memory_07_garden.json",
+      "scene_id": "memory_07_garden",
+      "sequence": 7,
+      "title": "Family Garden",
+      "period": "past",
+      "duration": 10,
+      "characters": ["Anu", "Lakshmi"],
+      "environment": "places/family_garden",
+      "key_asset": "places/family_garden",
+      "therapeutic_focus": "Peaceful moments in familiar environment"
+    },
+    {
+      "file": "memory_08_radio.json",
+      "scene_id": "memory_08_radio",
+      "sequence": 8,
+      "title": "Old Radio Memory",
+      "period": "past",
+      "duration": 10,
+      "characters": ["Lakshmi", "Anu"],
+      "environment": "home/living_room",
+      "key_asset": "objects/old_radio",
+      "therapeutic_focus": "Sensory memory and comfort objects"
+    },
+    {
+      "file": "present_01_transition.json",
+      "scene_id": "present_01_transition",
+      "sequence": 9,
+      "title": "Transition From Memory to Present",
+      "period": "transition",
+      "duration": 8,
+      "characters": ["Lakshmi", "Anu"],
+      "environment": "home/house",
+      "key_asset": "home/house",
+      "therapeutic_focus": "Bridge from memory to present-day reality"
+    },
+    {
+      "file": "present_02_anu_enters.json",
+      "scene_id": "present_02_anu_enters",
+      "sequence": 10,
+      "title": "Anu Enters the Home",
+      "period": "present",
+      "duration": 12,
+      "characters": ["Anu", "Lakshmi"],
+      "environment": "home/house",
+      "key_asset": "home/living_room",
+      "therapeutic_focus": "Present-day reunion and recognition of daughter"
+    },
+    {
+      "file": "present_03_reunion_hug.json",
+      "scene_id": "present_03_reunion_hug",
+      "sequence": 11,
+      "title": "Final Mother–Daughter Hug ❤️",
+      "period": "present",
+      "duration": 12,
+      "characters": ["Lakshmi", "Anu"],
+      "environment": "home/living_room",
+      "key_asset": "family_connection",
+      "therapeutic_focus": "Emotional closure and affirmation of love"
+    }
+  ],
+  "asset_requirements": {
+    "people": [
+      "patient_lakshmi",
+      "anu",
+      "rahul"
+    ],
+    "places": [
+      "family_temple",
+      "family_garden",
+      "family_trip"
+    ],
+    "home": [
+      "house",
+      "living_room",
+      "kitchen"
+    ],
+    "food": [
+      "chapathi",
+      "rice",
+      "banana"
+    ],
+    "objects": [
+      "old_radio"
+    ]
+  },
+  "generation_notes": {
+    "api_model": "Google Veo 3.1",
+    "reference_preservation": "All prompts emphasize preserving facial identity and environmental consistency",
+    "memory_cues": "Each scene includes visual memory cues (food, objects, environments)",
+    "emotion_tracking": "Progression from contemplative → interactive → emotionally warm",
+    "duration_notes": "Total 108 seconds spans 8 past memories, 1 transition, 2 present scenes",
+    "temporal_shift": "Character age shifts noticeably between past (younger Anu/Rahul) and present (adult Anu, elderly Lakshmi)"
+  }
+}

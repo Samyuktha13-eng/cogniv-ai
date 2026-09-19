@@ -1,0 +1,27 @@
+{
+  "scene_id": "memory_06_family_meal",
+  "sequence_number": 6,
+  "title": "Family Meal",
+  "period": "past",
+  "duration_seconds": 10,
+  "characters": [
+    "people/patient_lakshmi",
+    "people/anu",
+    "people/rahul"
+  ],
+  "environment": "home/living_room",
+  "reference_images": [
+    "people/patient_lakshmi",
+    "people/anu",
+    "people/rahul",
+    "home/living_room",
+    "food/rice",
+    "food/banana"
+  ],
+  "objects": [
+    "food/rice",
+    "food/banana"
+  ],
+  "story": "A warm nostalgic reconstruction of a family meal at Lakshmi's home with Anu and Rahul.",
+  "video_prompt": "Create a warm nostalgic reconstruction of a family meal at Lakshmi's home.\n\nUse the provided reference images of Lakshmi, Anu and Rahul to preserve their recognizable identities.\n\nBecause this is a past family memory, Anu and Rahul may appear younger while remaining recognizable.\n\nUse the provided home reference image to preserve the familiar family environment.\n\nLakshmi, Anu and Rahul sit together and share a peaceful family meal.\n\nShow recognizable Indian food, including rice and banana based on the provided food references.\n\nShow natural eating gestures, gentle conversation, smiling and affectionate family interaction.\n\nLakshmi looks happy while spending time with her daughter and son.\n\nThe scene should emphasize family connection and familiarity.\n\nNatural movement, realistic expressions, warm nostalgic lighting.\n\nNo text, no captions, no logos, no watermark."
+}

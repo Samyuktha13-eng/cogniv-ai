@@ -1,0 +1,44 @@
+{
+  "patient_id": "patient_001",
+  "session_id": "story_001",
+  "game_name": "A Visit From Anu",
+  "timestamp": "2026-09-01T19:47:51.177078",
+  "events": [
+    {
+      "target_type": "person_recall",
+      "target_id": "person_anu",
+      "target_name": "Anu",
+      "answer_id": "person_anu",
+      "answer_text": "Anu",
+      "correct": true,
+      "hint_level": 1,
+      "attempt_number": 2
+    },
+    {
+      "target_type": "food_recall",
+      "target_id": "food_chapathi",
+      "target_name": "Chapathi",
+      "answer_id": "food_chapathi",
+      "answer_text": "Chapathi",
+      "correct": true,
+      "hint_level": 0,
+      "attempt_number": 1
+    },
+    {
+      "target_type": "person_recall",
+      "target_id": "person_rahul",
+      "target_name": "Rahul",
+      "answer_id": "person_rahul",
+      "answer_text": "Rahul",
+      "correct": true,
+      "hint_level": 0,
+      "attempt_number": 1
+    }
+  ],
+  "summary": {
+    "independent_recalls": 2,
+    "cue_assisted_recalls": 1,
+    "incorrect_answers": 0,
+    "total_events": 3
+  }
+}

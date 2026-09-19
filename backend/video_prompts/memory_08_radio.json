@@ -1,0 +1,23 @@
+{
+  "scene_id": "memory_08_radio",
+  "sequence_number": 8,
+  "title": "Old Radio Memory",
+  "period": "past",
+  "duration_seconds": 10,
+  "characters": [
+    "people/patient_lakshmi",
+    "people/anu"
+  ],
+  "environment": "home/living_room",
+  "reference_images": [
+    "people/patient_lakshmi",
+    "people/anu",
+    "home/living_room",
+    "objects/old_radio"
+  ],
+  "objects": [
+    "objects/old_radio"
+  ],
+  "story": "A warm nostalgic memory of Lakshmi and Anu listening to the old radio together in their living room.",
+  "video_prompt": "Create a warm nostalgic memory reconstruction inside Lakshmi's familiar living room.\n\nUse the provided Lakshmi and Anu reference images to preserve their recognizable identities.\n\nUse the provided living-room and old-radio reference images to preserve the familiar environment and object.\n\nThis is a memory from the past, so Anu may appear younger while remaining recognizable as Lakshmi's daughter.\n\nLakshmi sits comfortably near the old radio.\n\nAnu sits beside her.\n\nThe old radio is clearly visible.\n\nAnu gently adjusts or switches on the radio while Lakshmi smiles.\n\nThey sit together peacefully and listen to the radio.\n\nShow subtle natural movement such as blinking, breathing, gentle head movement and small hand gestures.\n\nThe atmosphere should feel like a quiet cherished family memory.\n\nWarm vintage lighting and gentle nostalgic mood.\n\nNo text, no captions, no logos, no watermark."
+}

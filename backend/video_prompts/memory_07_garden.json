@@ -1,0 +1,20 @@
+{
+  "scene_id": "memory_07_garden",
+  "sequence_number": 7,
+  "title": "Family Garden",
+  "period": "past",
+  "duration_seconds": 10,
+  "characters": [
+    "people/anu",
+    "people/patient_lakshmi"
+  ],
+  "environment": "places/family_garden",
+  "reference_images": [
+    "people/anu",
+    "people/patient_lakshmi",
+    "places/family_garden"
+  ],
+  "objects": [],
+  "story": "Lakshmi spends a peaceful moment with her daughter Anu in their familiar family garden.",
+  "video_prompt": "Create a peaceful nostalgic memory reconstruction of Lakshmi spending time with her daughter Anu in their familiar family garden.\n\nUse the provided Lakshmi and Anu reference images to preserve their recognizable identities.\n\nThis is a past memory, so Anu may appear younger while remaining recognizable as Lakshmi's daughter.\n\nUse the provided family garden reference image to preserve the actual garden environment, plants, layout and atmosphere.\n\nLakshmi and Anu walk slowly through the garden together.\n\nAnu gently talks with Lakshmi and smiles.\n\nLakshmi looks at the plants and then at Anu with a warm motherly expression.\n\nShow natural walking, hand gestures, facial expressions and subtle environmental movement.\n\nThe scene should feel peaceful, familiar and emotionally positive.\n\nWarm evening sunlight, gentle nostalgic atmosphere and realistic movement.\n\nNo text, no captions, no logos, no watermark."
+}

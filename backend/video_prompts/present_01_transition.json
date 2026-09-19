@@ -1,0 +1,20 @@
+{
+  "scene_id": "present_01_transition",
+  "sequence_number": 9,
+  "title": "Transition From Memory to Present",
+  "period": "transition",
+  "duration_seconds": 8,
+  "characters": [
+    "people/patient_lakshmi",
+    "people/anu"
+  ],
+  "environment": "home/house",
+  "reference_images": [
+    "people/patient_lakshmi",
+    "people/anu",
+    "home/house"
+  ],
+  "objects": [],
+  "story": "A cinematic transition from Lakshmi's past memories into the present day, marking the return of her daughter.",
+  "video_prompt": "Create a cinematic transition from Lakshmi's past memories into the present day.\n\nUse the provided present-day reference images of Lakshmi and adult Anu.\n\nPreserve their current facial appearance, age, hairstyle, clothing and identity accurately.\n\nBegin with a gentle visual feeling of memories fading away.\n\nGradually transition into the present-day family home.\n\nThe home should closely match the provided house reference image.\n\nAdult Anu has returned to India after many years and is approaching her mother's home.\n\nShow Anu standing outside the familiar home and preparing to enter.\n\nHer expression is emotional, caring and hopeful.\n\nThe scene should clearly feel different from the earlier younger-memory scenes: this is the present day.\n\nNatural realistic movement and cinematic but believable camera motion.\n\nNo text, no captions, no logos, no watermark."
+}

@@ -1,0 +1,141 @@
+{
+  "storyId": "lakshmi_anu_story_001",
+  "patientId": "Patient_001_Lakshmi",
+  "storyTitle": "A Visit From Anu",
+  "videoBasePath": "/videos/lakshmi_anu_001/",
+  "scenes": [
+    {
+      "sceneId": "memory_01_home",
+      "sequence": 1,
+      "title": "Lakshmi at Home / Beginning",
+      "videoPath": "memory_01_home.mp4",
+      "duration": 8,
+      "period": "past",
+      "characters": [
+        "lakshmi"
+      ]
+    },
+    {
+      "sceneId": "memory_02_anu",
+      "sequence": 2,
+      "title": "Lakshmi Remembers Anu",
+      "videoPath": "memory_02_anu.mp4",
+      "duration": 8,
+      "period": "past",
+      "characters": [
+        "lakshmi",
+        "anu"
+      ]
+    },
+    {
+      "sceneId": "memory_03_chapathi",
+      "sequence": 3,
+      "title": "Anu and Lakshmi Making Chapathi",
+      "videoPath": "memory_03_chapathi.mp4",
+      "duration": 8,
+      "period": "past",
+      "characters": [
+        "lakshmi",
+        "anu"
+      ]
+    },
+    {
+      "sceneId": "memory_04_temple",
+      "sequence": 4,
+      "title": "Temple Memory",
+      "videoPath": "memory_04_temple.mp4",
+      "duration": 8,
+      "period": "past",
+      "characters": [
+        "lakshmi",
+        "anu"
+      ]
+    },
+    {
+      "sceneId": "memory_05_trip",
+      "sequence": 5,
+      "title": "Family Trip",
+      "videoPath": "memory_05_trip.mp4",
+      "duration": 8,
+      "period": "past",
+      "characters": [
+        "lakshmi",
+        "anu",
+        "rahul"
+      ]
+    },
+    {
+      "sceneId": "memory_06_family_meal",
+      "sequence": 6,
+      "title": "Family Meal",
+      "videoPath": "memory_06_family_meal.mp4",
+      "duration": 8,
+      "period": "past",
+      "characters": [
+        "lakshmi",
+        "anu",
+        "rahul"
+      ]
+    },
+    {
+      "sceneId": "memory_07_garden",
+      "sequence": 7,
+      "title": "Family Garden",
+      "videoPath": "memory_07_garden.mp4",
+      "duration": 8,
+      "period": "past",
+      "characters": [
+        "lakshmi",
+        "anu"
+      ]
+    },
+    {
+      "sceneId": "memory_08_radio",
+      "sequence": 8,
+      "title": "Old Radio Memory",
+      "videoPath": "memory_08_radio.mp4",
+      "duration": 8,
+      "period": "past",
+      "characters": [
+        "lakshmi",
+        "anu"
+      ]
+    },
+    {
+      "sceneId": "present_01_transition",
+      "sequence": 9,
+      "title": "Transition From Memory to Present",
+      "videoPath": "present_01_transition.mp4",
+      "duration": 8,
+      "period": "transition",
+      "characters": [
+        "lakshmi",
+        "anu"
+      ]
+    },
+    {
+      "sceneId": "present_02_anu_enters",
+      "sequence": 10,
+      "title": "Anu Enters the Home",
+      "videoPath": "present_02_anu_enters.mp4",
+      "duration": 8,
+      "period": "present",
+      "characters": [
+        "lakshmi",
+        "anu"
+      ]
+    },
+    {
+      "sceneId": "present_03_reunion_hug",
+      "sequence": 11,
+      "title": "Final Mother-Daughter Hug",
+      "videoPath": "present_03_reunion_hug.mp4",
+      "duration": 8,
+      "period": "present",
+      "characters": [
+        "lakshmi",
+        "anu"
+      ]
+    }
+  ]
+}

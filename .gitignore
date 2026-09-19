@@ -9,9 +9,9 @@ outputs/*
 .ipynb_checkpoints/
 firebase/serviceAccountKey*.json
 models/
-!backend/app/models/
-!backend/app/models/**
-backend/app/models/__pycache__/
+models/cogvideox-2b/
+models/CogVideoX-5b-I2V/
+models/LTX-Video/
 *.safetensors
 *.sqlite3
 *.db
